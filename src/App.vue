@@ -1,5 +1,10 @@
 <template>
   <div class="root w-full h-full">
+    dodakdlsadlkasjdlaskd
+    asdaskjkda
+    sdksajdoasjdsaijdas
+    daisdjlaksjdlasjkd
+    
     <router-view />
   </div>
 </template>
